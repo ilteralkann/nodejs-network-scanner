@@ -6,7 +6,9 @@ This app, scans networks near you.
 
 **1** ```git clone https://github.com/ilteralkann/nodejs-network-scanner```
 
-**2** ```node scan.js```
+**2** ```npm i```
+
+**3** ```node scan.js```
 
 **3** *That's all.*
 
